@@ -1,0 +1,20 @@
+.header{
+    display: block;
+    max-width: 200px;
+    height: auto;
+}
+
+
+.logoimg{
+    max-width: 100px;
+    padding-right: 10px;
+    padding-left: auto;
+}
+.home{
+    color: red;
+}
+#toplist{
+    display: block;
+    color: red;
+    text-align: right;
+}
