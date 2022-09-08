@@ -6,7 +6,9 @@
 
 
 .logoimg{
-    max-width: 100px;
+    display: block;
+    max-width: 110px;
+    max-width: auto;
     padding-right: 10px;
     padding-left: auto;
 }
@@ -14,7 +16,8 @@
     color: red;
 }
 #toplist{
-    display: block;
-    color: red;
-    text-align: right;
+    list-style-type: none;
+   # display: block;
+   # color: red;
+   # text-align: right;
 }
